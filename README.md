@@ -5,6 +5,7 @@ This application uses student input to generate every possible schedule combinat
 
 SOURCE FILES:
 
+
   Manager.cs
 
   Info.cs
@@ -19,6 +20,7 @@ SOURCE FILES:
   
 
 REFERENCES USED:
+
 
   Professor
 
@@ -43,6 +45,7 @@ REFERENCES USED:
 
 INSTRUCTIONS FOR RUNNING THE APP:
 
+
   Download Files.
 
   Open application Scheduler.exe in the application folder
@@ -53,5 +56,4 @@ INSTRUCTIONS FOR RUNNING THE APP:
 
   The system will block you from adding a class if you're missing information.
 
-  Enjoy your schedules. The system will let you know if you don't have any possible combinations. Click and scroll through to see each option. Happy  
-  enrolling!
+  Enjoy your schedules. The system will let you know if you don't have any possible combinations. Click and scroll through to see each option. Happy enrolling!
