@@ -3,8 +3,7 @@
 This application uses student input to generate every possible schedule combination for college students looking to enroll in classes. Built to run in Windows.
 
 
-SOURCE FILES:
-
+# SOURCE FILES:
 
   Manager.cs
 
@@ -19,8 +18,7 @@ SOURCE FILES:
   README.txt
   
 
-REFERENCES USED:
-
+# REFERENCES USED:
 
   Professor
 
@@ -43,8 +41,7 @@ REFERENCES USED:
   https://docs.unity3d.com
   
 
-INSTRUCTIONS FOR RUNNING THE APP:
-
+# INSTRUCTIONS FOR RUNNING THE APP:
 
   Download Files.
 
