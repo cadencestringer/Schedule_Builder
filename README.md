@@ -1,6 +1,7 @@
 # Schedule_Builder
 
-This application uses student input to generate every possible schedule combination for college students looking to enroll in classes.
+This application uses student input to generate every possible schedule combination for college students looking to enroll in classes. Built to run in Windows.
+
 
 1. A LIST OF ALL SOURCE FILES
 
@@ -15,10 +16,12 @@ This application uses student input to generate every possible schedule combinat
   Generator.cs
 
   README.txt
+  
 
 2. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS
 
   None
+  
 
 4. A LIST OF ALL REFERENCES USED
 
@@ -41,6 +44,7 @@ This application uses student input to generate every possible schedule combinat
   https://www.dotnetperls.com/icomparable
 
   https://docs.unity3d.com
+  
 
 5. INSTRUCTIONS FOR RUNNING THE APP
 
