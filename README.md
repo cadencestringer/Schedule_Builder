@@ -3,7 +3,7 @@
 This application uses student input to generate every possible schedule combination for college students looking to enroll in classes. Built to run in Windows.
 
 
-1. A LIST OF ALL SOURCE FILES
+SOURCE FILES:
 
   Manager.cs
 
@@ -18,12 +18,7 @@ This application uses student input to generate every possible schedule combinat
   README.txt
   
 
-2. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS
-
-  None
-  
-
-4. A LIST OF ALL REFERENCES USED
+REFERENCES USED:
 
   Professor
 
@@ -46,7 +41,7 @@ This application uses student input to generate every possible schedule combinat
   https://docs.unity3d.com
   
 
-5. INSTRUCTIONS FOR RUNNING THE APP
+INSTRUCTIONS FOR RUNNING THE APP:
 
   Download Files.
 
